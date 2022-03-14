@@ -10,7 +10,8 @@ This template should help get you started developing with Vue 3 in Vite.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-You will also have to provide your own openweathermap api key just paste it in the api_key section in the App.vue file line 35
+You will also have to provide your own api key from https://openweathermap.org
+Just paste it in the api_key section in the App.vue file line 35
 
 ## Project Setup
 
