@@ -31,7 +31,7 @@ export default {
   name: 'app',
   data () {
     return {
-      // Insert api key here
+      // Insert api key for openweathermap.org here
       api_key: '', 
       // End Insert api key here
       url_base: 'https://api.openweathermap.org/data/2.5/',
